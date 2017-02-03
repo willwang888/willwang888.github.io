@@ -277,5 +277,5 @@ body {
   color: #089DE3;
   background-color: #089DE3;
   background-image: -webkit-radial-gradient(circle, #F9A72B 0%, #FA9026 70%, #FB6C1F 100%);
-  background-image: radial-gradient(circle, #F9A72B 0%, #FA9026 70%, #FB6C1F 100%);
+  background-image: radial-gradient(circle, #089DE3 0%, #089DE3 70%, #089DE3 100%);
 }
