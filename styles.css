@@ -129,7 +129,7 @@
 .Cloud.Background:nth-child(10) {
   -webkit-animation-duration: 110s;
           animation-duration: 110s;
-  height: -3.40909091%;
+  height: 12%;
 }
 
 .Cloud:nth-child(9) {
@@ -147,7 +147,7 @@
 .Cloud.Background:nth-child(9) {
   -webkit-animation-duration: 114s;
           animation-duration: 114s;
-  height: -2.15909091%;
+  height: 1%;
 }
 
 .Cloud:nth-child(8) {
@@ -165,7 +165,7 @@
 .Cloud.Background:nth-child(8) {
   -webkit-animation-duration: 118s;
           animation-duration: 118s;
-  height: -0.90909091%;
+  height: 3%;
 }
 
 .Cloud:nth-child(7) {
@@ -183,7 +183,7 @@
 .Cloud.Background:nth-child(7) {
   -webkit-animation-duration: 122s;
           animation-duration: 122s;
-  height: 0.34090909%;
+  height: 8%;
 }
 
 .Cloud:nth-child(6) {
@@ -201,7 +201,7 @@
 .Cloud.Background:nth-child(6) {
   -webkit-animation-duration: 126s;
           animation-duration: 126s;
-  height: 1.59090909%;
+  height: 5%;
 }
 
 .Cloud:nth-child(5) {
@@ -219,7 +219,7 @@
 .Cloud.Background:nth-child(5) {
   -webkit-animation-duration: 130s;
           animation-duration: 130s;
-  height: 2.84090909%;
+  height: 10%;
 }
 
 .Cloud:nth-child(4) {
@@ -237,7 +237,7 @@
 .Cloud.Background:nth-child(4) {
   -webkit-animation-duration: 134s;
           animation-duration: 134s;
-  height: 4.09090909%;
+  height: 26%;
 }
 
 .Cloud:nth-child(3) {
@@ -255,7 +255,7 @@
 .Cloud.Background:nth-child(3) {
   -webkit-animation-duration: 138s;
           animation-duration: 138s;
-  height: 5.34090909%;
+  height: 23%;
 }
 
 .Cloud:nth-child(2) {
@@ -273,7 +273,7 @@
 .Cloud.Background:nth-child(2) {
   -webkit-animation-duration: 142s;
           animation-duration: 142s;
-  height: 6.59090909%;
+  height: 15%;
 }
 
 .Cloud:nth-child(1) {
@@ -291,7 +291,7 @@
 .Cloud.Background:nth-child(1) {
   -webkit-animation-duration: 146s;
           animation-duration: 146s;
-  height: 7.84090909%;
+  height: 20%;
 }
 
 .Cloud {
