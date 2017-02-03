@@ -297,7 +297,7 @@
 .Cloud {
   color: white;
   fill: currentColor;
-  background-image: url(blueCloud.svg);
+  /*background-image: url(blueCloud.svg);*/
 }
 
 .Cloud.Background {
