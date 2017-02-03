@@ -12,7 +12,7 @@
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
-          user-select: none;
+          user-select: none;    
 }
 @-webkit-keyframes FadeIn {
   from {
@@ -316,5 +316,5 @@ body {
   min-height: 100%;
 }
 body {
-  /*color: #089DE3;*/
+  color: white;
 }
