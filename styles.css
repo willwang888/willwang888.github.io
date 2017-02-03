@@ -5,7 +5,7 @@
   bottom: 0;
   left: 0;
   margin: auto;
-  height: 30%;
+  /*height: 30%;*/
   overflow: hidden;
   -webkit-animation: FadeIn 3s ease-out;
           animation: FadeIn 3s ease-out;
@@ -295,12 +295,13 @@
 }
 
 .Cloud {
-  /*color: white;*/
+  color: white;
+  fill: currentColor;
   background-image: url(blueCloud.svg);
 }
 
 .Cloud.Background {
-  background-image: url(blueCloud.svg);
+  /*background-color: white;*/
 }
 
 html,
@@ -316,7 +317,4 @@ body {
 }
 body {
   color: #089DE3;
-  background-color: #089DE3;
-  background-image: -webkit-radial-gradient(circle, #089DE3 0%, #089DE3 70%, #089DE3 100%);
-  background-image: radial-gradient(circle, #089DE3 0%, #089DE3 70%, #089DE3 100%);
 }
