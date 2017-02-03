@@ -297,11 +297,12 @@
 .Cloud {
   color: white;
   fill: currentColor;
-  /*background-image: url(blueCloud.svg);*/
+  
 }
 
 .Cloud.Background {
   /*background-color: white;*/
+  background-image: url(blueCloud.svg);
 }
 
 html,
@@ -316,5 +317,5 @@ body {
   min-height: 100%;
 }
 body {
-  color: white;
+  /*color: white;*/
 }
