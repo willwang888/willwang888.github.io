@@ -668,6 +668,132 @@
 				height: 250px;
 			}
 
+
+		.workimage.main {
+				display: inline-block;
+				margin: 2.5rem 0;
+				width: 25%;
+				margin: 0 auto 1em auto;
+			}
+			.workimage.spark {
+					display: inline-block;
+					margin: 2.5rem 0;
+					width: 25%;
+					margin: 0 auto 1em auto;
+				}
+
+				#fade-div {
+					-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+				}
+
+				@keyframes fadein {
+				    from { opacity: 0; }
+				    to   { opacity: 1; }
+				}
+
+				.workimage.techla {
+						display: inline-block;
+						margin: 2.5rem 0;
+						width: 25%;
+						margin: 0 auto 1em auto;
+					}
+
+				.workimage.lavalab {
+						display: inline-block;
+						margin: 2.5rem 0;
+						width: 25%;
+						margin: 0 auto 1em auto;
+					}
+
+				.workimage.jpl {
+						display: inline-block;
+						margin: 2.5rem 0;
+						width: 25%;
+						margin: 0 auto 1em auto;
+					}
+
+					.workimage.ge {
+							display: inline-block;
+							margin: 2.5rem 0;
+							width: 25%;
+							margin: 0 auto 1em auto;
+						}
+
+						.workimage.hacksc {
+								display: inline-block;
+								margin: 2.5rem 0;
+								width: 25%;
+								margin: 0 auto 1em auto;
+							}
+
+							.workimage.sail {
+									display: inline-block;
+									margin: 2.5rem 0;
+									width: 25%;
+									margin: 0 auto 1em auto;
+								}
+
+								.workimage.docket {
+										display: inline-block;
+										margin: 2.5rem 0;
+										width: 25%;
+										margin: 0 auto 1em auto;
+									}
+
+				.workimage.main img {
+					width: 25%;
+					height: 75px;
+				}
+
+				.workimage.spark img {
+					width: 85%;
+					height: 60px;
+				}
+
+				.workimage.techla img {
+					width: 90%;
+					height: 80px;
+				}
+
+				.workimage.lavalab img {
+					width: 80%;
+					height: 60px;
+					margin-left: 1em;
+				}
+
+				.workimage.jpl img {
+					width: 70%;
+					height: 70px;
+					margin-left: 1.5em;
+				}
+
+				.workimage.ge img {
+					width: 100%;
+					height: 90px;
+				}
+
+				.workimage.hacksc img {
+					width: 75%;
+					height: 30px;
+					margin-left: 1em;
+					margin-bottom: 1em;
+				}
+
+				.workimage.sail img {
+					width: 65%;
+					height: 65px;
+					margin-left: 1em;
+				}
+
+				.workimage.docket img {
+					width: 90%;
+					height: 65px;
+				}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
@@ -729,7 +855,8 @@
 
 			ul.icons li {
 				display: inline-block;
-				padding: 0 0.75em 0 0;
+				padding: 0 0.75em 0 0.5em;
+				margin-left: 0.3em;
 			}
 
 				ul.icons li:last-child {
