@@ -767,7 +767,7 @@
 
 				.workimage.jpl img {
 					width: 70%;
-					height: 70px;
+					height: 75px;
 					margin-left: 1.5em;
 				}
 
@@ -785,13 +785,13 @@
 
 				.workimage.sail img {
 					width: 65%;
-					height: 65px;
+					height: 70px;
 					margin-left: 1em;
 				}
 
 				.workimage.docket img {
 					width: 90%;
-					height: 65px;
+					height: 55px;
 				}
 
 		@media screen and (max-width: 736px) {
