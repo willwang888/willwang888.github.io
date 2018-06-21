@@ -801,6 +801,11 @@
 					height: 55px;
 				}
 
+				.workimage.salesforce img {
+					width: 100%;
+					height: 90px;
+				}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
