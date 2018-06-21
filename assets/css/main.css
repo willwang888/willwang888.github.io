@@ -744,6 +744,13 @@
 										margin: 0 auto 1em auto;
 									}
 
+									.workimage.salesforce {
+										display: inline-block;
+										margin: 2.5rem 0;
+										width: 25%;
+										margin: 0 auto 1em auto;
+									}
+
 				.workimage.main img {
 					width: 25%;
 					height: 75px;
